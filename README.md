@@ -9,7 +9,7 @@ An API for Recommend Titles by Category Features using Flask Python
 ## Setup
 - Clone API Model
   ```
-  git clone https://github.com/Bangkit-Academy-C23-PR559/StoryVerse-API.git
+  https://github.com/Bangkit-Academy-C23-PR559/StoryVerse-API-Model.git
   ```
 - Test the API locally
   ```
